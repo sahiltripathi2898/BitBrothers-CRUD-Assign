@@ -1,4 +1,4 @@
-Heroku app link -
+Heroku app link - https://rocky-beach-81247.herokuapp.com/api/user
 
 You can test the api on postman -
 
